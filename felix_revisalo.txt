@@ -1,0 +1,86 @@
+    1  history
+    2  cd thecmdchallenge/
+    3  pwd
+    4  ls *
+    5  ls -1
+    6  clear
+    7  ls -1
+    8  cd small-name/
+    9  cd bigger-name-than-before/
+   10  cd omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/
+   11  ls
+   12  cd this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious/
+   13  ls
+   14  cat trophy.txt
+   15  cd ..
+   16  ls *
+   17  cd funcode
+   18  ls
+   19  find . -name "*.js"
+   20  ls
+   21  cd the-most-funny/
+   22  ls -1
+   23  ls
+   24  mkdir no-that-funny
+   25  ls -1
+   26  cd ..
+   27  ls -1
+   28  cd ..
+   29  ls *
+   30  cd boringfolder/
+   31  ls -1
+   32  cd even-more-boring/
+   33  ls -1
+   34  cd i-cant-believe-how-boring/
+   35  ls -1
+   36  cd the-ultimate-boring-inception/
+   37  ls -1
+   38  cp the-mostboring-text.txt lol.txt
+   39  ls -a
+   40  cd ..
+   41  ls *
+   42  cd funcode
+   43  ls -h
+   44  cd funcode
+   45  ls -h
+   46  cd ..
+   47  ls -a
+   48  mv /workspaces/angel_exercise-terminal-challenge/thecmdchallenge/funcode/kids.jpg /workspaces/angel_exercise-terminal-challenge/thecmdchallenge/funcode/images/hello/
+   49  ls -1
+   50  ls
+   51  cd images/
+   52  ls
+   53  cd hello
+   54  ls
+   55  cd ..
+   56  ls
+   57  cd ..
+   58  ls *
+   59  rmdir small-name
+   60  rm -r small-name
+   61  ls *
+   62  find . -name "the-ultimate-joke.txt"
+   63  history
+   64  find . -name "the-ultimate-joke.txt"
+   65  cat /workspaces/angel_exercise-terminal-challenge/thecmdchallenge/funcode/the-most-funny/lol/the-ultimate-joke.txt
+   66  ls *
+   67  rm -r boringfolder
+   68  ls *
+   69  vi /kamehameha/dragon-ball-jokes.md
+   70  git status
+   71  ls *
+   72  cd kamehameha/
+   73  ls
+   74  cat *
+   75  vi dragon-ball-jokes.md 
+   76  git status
+   77  vi dragon-ball-jokes.md 
+   78  git status
+   79  history
+   80  history > felix_revisalo.txt
+   81  ls
+   82  rm felix_revisalo.txt 
+   83  ls
+   84  history
+   85  cd ..
+   86  history > felix_revisalo.txt
